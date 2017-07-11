@@ -3,7 +3,7 @@ _Collection of CVPR 2017, including titles, links, authors, abstracts and my own
 It is a convient project for CVPR fast reading. Some information are missing, and I hope we can work together for a better collection._
 
 ## Machine Learning 1
-
+testttttttttt
 Spotlight 1-1A
 
 #### Exclusivity-Consistency Regularized Multi-View Subspace Clustering
